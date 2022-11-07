@@ -1,5 +1,7 @@
-# portal
+# positioning
 
-This repo creates a page on which I store my web projects
+This repo stores the starting point and assets for the positioning lesson plan found at the following url:
+
+https://tinyurl.com/positioning-lesson-plan
 
 
